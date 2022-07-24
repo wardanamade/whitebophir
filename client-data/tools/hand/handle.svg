@@ -1,8 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg role="img" version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" id="root">
-    <g id="handle" transform="matrix(2.3668 2.3668 -2.3668 2.3668 13.98 -131.11)" fill="#ff002d">
-        <g transform="translate(-.5821 .16648)" fill="#f00">
-            <rect transform="rotate(-45)" x="-2.9234" y="40.131" width="5.7222" height="5.8388" ry=".34186" fill="#bdaddf" fill-opacity=".99078" stroke="#000" stroke-linejoin="round" stroke-width=".23901" />
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="root" role="img" version="1.1" viewBox="0 0 24 24"><g id="handle" fill="#ff002d"><g fill="red" transform="matrix(2.3668 2.3668 -2.3668 2.3668 13.98 -131.11) translate(-.5821 .16648)"><rect width="5.722" height="5.839" x="-2.923" y="40.131" fill="#bdaddf" fill-opacity=".991" stroke="#000" stroke-linejoin="round" stroke-width=".239" ry=".342" transform="rotate(-45)"/></g></g></svg>
